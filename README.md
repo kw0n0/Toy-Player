@@ -1,5 +1,7 @@
-## client 폴더구조
+# Toy-PlayerToy-Player
+간단한 뮤직 플레이어를 구현한 토이 프로젝트입니다
 
+## client 폴더구조
 클라이언트 측 폴더구조만 작성한 문서입니다.
 
 ```bash
