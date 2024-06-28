@@ -1,6 +1,11 @@
 # Toy-PlayerToy-Player
 간단한 뮤직 플레이어를 구현한 토이 프로젝트입니다
 
+<p align="center">
+ <img src="https://github.com/kw0n0/Toy-Player/assets/168624102/74613d0d-e8b2-48bf-bf56-f1df4a2cfb4f" alt="Image 1" width="40%" >
+ <img src="https://github.com/kw0n0/Toy-Player/assets/168624102/335ce8e2-0746-4903-b17c-737008ab0f24" alt="Image 2" width="40%" >
+</p>
+
 ## client 폴더구조
 클라이언트 측 폴더구조만 작성한 문서입니다.
 
