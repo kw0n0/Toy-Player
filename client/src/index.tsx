@@ -3,9 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+import { QueryClientProvider } from '@tanstack/react-query';
+import { getQueryClient } from './utils/queryClient';
 
-const queryClient = new QueryClient();
+const queryClient = getQueryClient();
 
 ReactDOM.render(
   <React.StrictMode>
